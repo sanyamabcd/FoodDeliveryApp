@@ -3,15 +3,15 @@
 # Food DeliveryApp UI!
 -Beautiful UI with gridview and listview
 
-## Pending
-- [ ] User firebase Auth / info Avatar
-- [x] restraunts screen works
-- [ ] add cart and remove item
-- [ ] payment checkout page
-- [ ] Push Notifications
-- [ ] more pictures and details of restraunts 
-- [ ] Review and ratings
-- [ ] splash screen not working as of now
+
+
+
+
+
+
+ 
+
+
 
 # App UI 
 ![Finished App](https://github.com/swaraj961/FoodDeliveryApp/blob/master/deliveryapp.gif)
