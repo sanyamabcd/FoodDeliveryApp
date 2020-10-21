@@ -16,3 +16,6 @@
 # App UI 
 ![Finished App](https://github.com/swaraj961/FoodDeliveryApp/blob/master/deliveryapp.gif)
 
+# Download APK
+- Soon 
+
